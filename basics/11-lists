@@ -1,3 +1,2 @@
 #!/bin/bash
 ls /root/boot /holbertonschool-shell/basics -1 -a 
-
