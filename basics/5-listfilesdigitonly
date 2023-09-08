@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 --format=long
+ls -1 -a --format=long
