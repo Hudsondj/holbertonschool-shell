@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a --author -1
+ls -1 --format=long
