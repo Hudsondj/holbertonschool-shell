@@ -1,2 +1,2 @@
 #!/bin/bash
-if usr= guillaume then chown vincent:staff root/holbertonschool-shell/permissions/hello
+chown --from=guillaune vincent:staff hello
